@@ -1,0 +1,5 @@
+python file
+777
+pip pop 
+[1, 23, 545, 213]
+lesson five homework number two
